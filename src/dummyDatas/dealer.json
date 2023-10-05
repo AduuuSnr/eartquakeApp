@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2,
+    "dealer_name": "Değirmencioğlu İletişim",
+    "location": "Gaziantep",
+    "dealer_latitude": 36.964426,
+    "dealer_longitude": 37.512182
+  },
+  {
+    "id": 3,
+    "dealer_name": "Bilgin İletişim",
+    "location": "Gaziantep",
+    "dealer_latitude": 37.047969,
+    "dealer_longitude": 37.386394
+  },
+  {
+    "id": 4,
+    "dealer_name": "Akkent İletişim",
+    "location": "Gaziantep",
+    "dealer_latitude": 37.074997,
+    "dealer_longitude": 37.332102
+  },
+  {
+    "id": 5,
+    "dealer_name": "Akkartal Teknoloji",
+    "location": "Gaziantep",
+    "dealer_latitude": 37.07293,
+    "dealer_longitude": 37.408088
+  },
+  {
+    "id": 6,
+    "dealer_name": "Hazal İletişim",
+    "location": "Kahramanmaraş",
+    "dealer_latitude": 38.023478,
+    "dealer_longitude": 36.499313
+  },
+  {
+    "id": 7,
+    "dealer_name": "Ekici İletişim",
+    "location": "Kahramanmaraş",
+    "dealer_latitude": 38.210765,
+    "dealer_longitude": 37.179308
+  },
+  {
+    "id": 8,
+    "dealer_name": "Tekiş İletişim",
+    "location": "Kahramanmaraş",
+    "dealer_latitude": 37.585093,
+    "dealer_longitude": 36.926201
+  },
+  {
+    "id": 9,
+    "dealer_name": "Artı İletişim",
+    "location": "Hatay",
+    "dealer_latitude": 36.589465,
+    "dealer_longitude": 36.172914
+  }
+]
